@@ -1,0 +1,17 @@
+# FastAPI framework
+fastapi==0.115.5
+
+# ASGI server
+uvicorn[standard]==0.32.1
+
+# AWS SDK for Python
+boto3==1.35.68
+
+# File upload support
+python-multipart==0.0.20
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Settings management
+pydantic-settings==2.6.1
