@@ -3,7 +3,8 @@
     "allow": [
       "Bash(git push:*)",
       "Read(//c/Users/juanm/Documents/GitHub/aws-fastapi-learning/**)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
